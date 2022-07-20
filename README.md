@@ -10,5 +10,5 @@ sudo apt install assetfinder
 ```
 
 ```
-git clone https://github.com/
+https://github.com/j4rv15h4ck/subfinder_shell.git
 ```
